@@ -3,3 +3,6 @@
 .test {
   border: 1px solid red;
 }
+::-ms-reveal {
+  display: none;
+}
